@@ -2,8 +2,12 @@ this is my file2
 
 this is another change to bubba2
 
+<<<<<<< HEAD
 THIS IS A LOCAL CHANGE
 
 merging local and github changes
 
+=======
+this should cause a merge of some kind
+>>>>>>> d24574b9c84f65b39ac7ffb653a7b58c683c0a4b
 
